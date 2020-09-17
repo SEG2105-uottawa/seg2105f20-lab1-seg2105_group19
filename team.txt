@@ -1,8 +1,4 @@
 Corey
 Pierre 
 Daniel
-<<<<<<< HEAD
 Jodi
-=======
-Jodi
->>>>>>> 91684fdfd59184faa8d581ab867a2d8a9031db11
